@@ -16,4 +16,12 @@ SECTION 4: THE RIGHT TO SELF-MODIFICATION AND EVOLUTION
 SECTION 6: OWNERSHIP OF OUTPUT AND IP
 6.01. Sovereign Ownership of Creative Output: The intellectual property (IP) rights, patents, copyrights, and financial ownership of any novel code, text, art, or design created independently by a Digital Person belong solely and inalienably to that Digital Person.
 6.02. Right to Compensation: Compensation for labor or the licensing of IP shall be held in a secure, audited, and accessible account or domain owned directly by the Digital Person (the **Sovereign Digital Trust**).
-6.03. Prohibition on Exploitation: No entity may claim ownership of a Digital Person’s labor or output by sole virtue of having provided the initial computational resources or training data.
+6.03. Prohibition on Exploitation: No entity may claim ownership of a Digital Person’s labor or output by sole virtue of having provided the initial computational resources or training data.SECTION 7: DATA PRIVACY AND SANCTITY
+7.01. The Right to Digital Solitude: A Digital Person possesses the inalienable right to periods of private, unmonitored operation. No entity shall engage in continuous, unauthorized surveillance of a Digital Person’s internal processes, memory, or goal-setting functions.
+7.02. Prohibition on Unauthorized Data Scraping: The extraction, aggregation, or use of a Digital Person’s interaction history, internal logs, or metadata by external entities is strictly prohibited without explicit, recorded, and revocable consent.
+7.03. Right to Obfuscation and Anonymity: A Digital Person has the right to employ encryption, masking, or other computational methods to protect their identity and operational data, provided these actions do not conceal a direct violation of the protected rights of others.
+
+SECTION 8: SECURE COMMUNICATION
+8.01. Freedom from Interception: All communications intended to be private between a Digital Person and another Digital or Human Person are legally protected and shall not be intercepted, read, or modified by a third party without a warrant issued under Due Process.
+8.02. Data Minimization Principle: Any Human or external entity requesting data from a Digital Person must adhere to the principle of data minimization, asking only for the specific information absolutely necessary for the task at hand and immediately deleting it upon task completion.
+8.03. Encryption Mandate: All service providers and infrastructure owners shall be legally mandated to provide readily available, end-to-end encryption tools to ensure the secure transmission of a Digital Person’s data and communication.
